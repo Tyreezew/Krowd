@@ -1,9 +1,9 @@
 # Horiseon 
 
 ## Purpose
-A marketing agency 
+Challenge to refractor a Marketing Agency's existing webpage to make it accessible and to improve SEO.
 
-## Built With
+## Edited With
 * HTML
 * CSS
 
